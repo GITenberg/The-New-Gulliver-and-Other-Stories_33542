@@ -1,0 +1,31 @@
+_repo: The-New-Gulliver-and-Other-Stories_33542
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pain, Barry
+    alias: Pain, Barry Eric Odell
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '26030'
+    url: http://www.gutenberg.org/2009/agents/26030
+    wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
+description: ''
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33542'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+tableOfContents: The new Gulliver -- In a London garden -- Zero -- When I was king
+  -- The satyr -- The choice -- The piano-tuner -- The pearls and the swine.
+title: The New Gulliver, and Other Stories
+url: http://www.gutenberg.org/ebooks/33542
