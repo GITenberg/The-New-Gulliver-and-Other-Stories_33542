@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26030
     wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33542#The-New-Gulliver-and-Other-Stories
 gutenberg_issued: '2010-08-27'
 gutenberg_type: Text
 identifiers:
